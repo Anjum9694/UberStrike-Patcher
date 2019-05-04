@@ -16,3 +16,5 @@ UberKill Server is owned and run by Patrik Nagy.
 10032 Uberstrike Server is run by Anjum9694.
 
 www.facebook.com/10032gaming/
+
+![Screenshot](Preview.png)
