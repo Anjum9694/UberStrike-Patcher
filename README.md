@@ -1,5 +1,4 @@
 # UberStrike Patcher
-Simple UberStrike Patcher that uses ficture7's dlls to enable connections to custom servers.
 
 This tool will modify 3 .dlls so we are able to connect non-profit reverse engineered UberStrike servers.
 
@@ -16,6 +15,8 @@ By using this tool you agree 10032 Gaming will not be held responsible for any d
 Servers used by the tool:
 UberKill Server is owned and run by Patrik Nagy.
 10032 Uberstrike Server is run by Anjum9694.
+
+You are free to integrate your own custom servers.
 
 www.facebook.com/10032gaming/
 
