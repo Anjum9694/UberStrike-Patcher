@@ -1,5 +1,5 @@
 # UberStrike-Patcher
-Simple UberStrike Patcher that uses Ficture7's dlls to enable connections to custom servers
+Simple UberStrike Patcher that uses ficture7's dlls to enable connections to custom servers.
 
 This tool will modify 3 .dlls so we are able to connect non-profit reverse engineered UberStrike servers.
 
