@@ -1,0 +1,12 @@
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\bin\Release\Uberstrike Patcher.exe.config
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\bin\Release\Uberstrike Patcher.exe
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\bin\Release\Uberstrike Patcher.pdb
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\bin\Release\Uberstrike Patcher.xml
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\obj\Release\Uberstrike Patcher.vbprojAssemblyReference.cache
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\obj\Release\Uberstrike_Patcher.Form1.resources
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\obj\Release\Uberstrike_Patcher.Resources.resources
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\obj\Release\Uberstrike Patcher.vbproj.GenerateResource.cache
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\obj\Release\Uberstrike Patcher.vbproj.CoreCompileInputs.cache
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\obj\Release\Uberstrike Patcher.exe
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\obj\Release\Uberstrike Patcher.xml
+C:\Users\Anjum\source\repos\Uberstrike Patcher\Uberstrike Patcher\obj\Release\Uberstrike Patcher.pdb
