@@ -3,9 +3,9 @@ Simple UberStrike Patcher that uses ficture7's dlls to enable connections to cus
 
 This tool will modify 3 .dlls so we are able to connect non-profit reverse engineered UberStrike servers.
 
-Assembly-CSharp.dll
-Assembly-CSharp-firstpass.dll
-UnityEngine.dll
+`Assembly-CSharp.dll`
+`Assembly-CSharp-firstpass.dll`
+`UnityEngine.dll`
 
 Our UberStrike Server WILL contain bugs please do not report to us and wait until UberKill releases.
 
